@@ -1,0 +1,4 @@
+this is a text file
+this file contains total 4 lines
+i don't know what to write 
+everythin written here is rubbish
